@@ -11,4 +11,4 @@ else:
 
 
 print(result)
-print("very good")
+print("Very good")
